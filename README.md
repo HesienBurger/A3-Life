@@ -8,3 +8,5 @@
                 alt="version">
 
 This repository is for the development of Catalyst's Networks ArmA 3 Island Life.
+
+Remember: This is a private repository, Dont Share!
