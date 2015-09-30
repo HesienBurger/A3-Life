@@ -9,4 +9,4 @@
 
 This repository is for the development of Catalyst's Networks ArmA 3 Island Life.
 
-Remember: This is a private repository, Dont Share! [Coming Soon]
+Remember: This is a private repository[Coming Soon] , our repository and framework will not be opensource and will probably not be anywhere in the near future.
