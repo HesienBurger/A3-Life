@@ -1,7 +1,7 @@
-author = "Hesien";
+author = "Hesien/OnyxRed";
 OnLoadName = "Catalyst Network";
-OnLoadMission = "A roleplay mission developed by Hesien";
-loadScreen = "";
+OnLoadMission = "A roleplay mission developed by Hesien and OnyxRed";
+loadScreen = "test.paa";
 disabledAI = 1;
 enableDebugConsole = 1;
 joinUnassigned = 1;
@@ -13,19 +13,18 @@ wreckRemovalMaxTime = 100;
 corpseLimit = 50;
 corpseRemovalMinTime = 600;
 corpseRemovalMaxTime = 800;
-
-#include ""
-#include ""
-#include ""
+//
+//
+//
 
 class Header
 {
 	gameType = RPG;
 	minPlayers = 1;
-	max Players = 75;
+	maxPlayers = 75;
 };
 class RscTitles	{
-	#include ""
+	// 
 };
 respawn= "BASE";
 respawnDelay = 0;
