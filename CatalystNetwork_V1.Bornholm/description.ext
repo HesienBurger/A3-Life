@@ -1,0 +1,31 @@
+author = "Hesien";
+OnLoadName = "Catalyst Network";
+OnLoadMission = "A roleplay mission developed by Hesien";
+loadScreen = "";
+disabledAI = 1;
+enableDebugConsole = 1;
+joinUnassigned = 1;
+respawnDialog = 0;
+
+wreckLimit = 5;
+wreckRemovalMinTime = 80;
+wreckRemovalMaxTime = 100;
+corpseLimit = 50;
+corpseRemovalMinTime = 600;
+corpseRemovalMaxTime = 800;
+
+#include ""
+#include ""
+#include ""
+
+class Header
+{
+	gameType = RPG;
+	minPlayers = 1;
+	max Players = 75;
+};
+class RscTitles	{
+	#include ""
+};
+respawn= "BASE";
+respawnDelay = 0;
