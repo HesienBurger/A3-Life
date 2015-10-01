@@ -1,5 +1,5 @@
 author="Catalyst Network Development Team"
-OnLoadName = "Catalyst Network Island Life";
+OnLoadName = "Catalyst Network Island Life v0.0.1";
 OnLoadMission = "An ArmA mission developed by Catalyst Network";
 loadScreen = "textures\load.paa";
 respawn = BASE;
